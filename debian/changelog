@@ -1,3 +1,9 @@
+vyos-nhrp (0.1.0+helium0+focal0+rev20200425163934) unstable; urgency=low
+
+  * New branch.
+
+ -- Masakazu Asama <m-asama@ginzado.co.jp>  Fri,  7 Feb 2020 20:59:26 +0900
+
 vyos-nhrp (0.1.0+vyos1+helium2) unstable; urgency=low
 
   * Force release

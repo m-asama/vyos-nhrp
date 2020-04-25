@@ -1,0 +1,17 @@
+/INSTALL
+/Makefile
+/Makefile.in
+/aclocal.m4
+/build-stamp
+/config.guess
+/config.log
+/config.status
+/config.sub
+/config/
+/configure
+/debian/.debhelper/
+/debian/changelog.*
+/debian/files
+/debian/vyos-nhrp/
+/debian/vyos-nhrp.debhelper.log
+/debian/vyos-nhrp.substvars
